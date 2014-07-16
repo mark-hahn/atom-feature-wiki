@@ -36,7 +36,7 @@ How do I add a feature I want?
 
 - Create a new wiki page with a short descriptive title.  Put at least a one-paragraph summary of the feature.  Edit the home page and add a link to the end of the list.  The line should look like this with `Page Title` replaced with your page title.  The dash should be the first character on the line ...
 
-      - [Page Title](wiki/Page Title)
+    `- [Page Title](wiki/Page Title)`
 
 Why?
 ---
@@ -46,7 +46,7 @@ Why?
 
 - Developers will work on a package only to find out that a package with similar features is in progress or already available.
 
-Modertion
+Moderation
 ---
 
 The wiki will be moderated and contents may be edited for appearance or clarity.
