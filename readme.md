@@ -1,7 +1,7 @@
 atom-feature-wiki
 =================
 
-Go straight to [the wiki](https://github.com/mark-hahn/atom-feature-wiki/wiki).
+Go straight to [the wiki](https://github.com/mark-hahn/atom-feature-wiki/wiki) ...
 ---
 
 What is this?
@@ -27,6 +27,17 @@ The home page is an index with one line for each proposed feature or feature set
 
 Note: It is highly encouraged to open a github project even before work is started.  This documentation is valuable.  Don't be embarrased if nothing comes of it.
 
+How do I add a feature I want?
+---
+
+- Make sure feature doesn't already exist.  Search for packages with your feature inside the editor.
+
+- Make sure the feature isn't already in this wiki.
+
+- Create a new wiki page with a short descriptive title.  Put at least a one-paragraph summary of the feature.  Edit the home page and add a link to the end of the list.  The line should look like this with `Page Title` replaced with your page title.  The dash should be the first character on the line ...
+
+      - [Page Title](wiki/Page Title)
+
 Why?
 ---
 - The discussion board has many posts of users requesting features.  These posts are often duplicated, disorganized, and forgotten.  
@@ -34,6 +45,11 @@ Why?
 - Atom editor developers interested in getting started often ask for ideas.
 
 - Developers will work on a package only to find out that a package with similar features is in progress or already available.
+
+Modertion
+---
+
+The wiki will be moderated and contents may be edited for appearance or clarity.
 
 Questions?
 ---
