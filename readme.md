@@ -1,8 +1,6 @@
 atom-feature-wiki
 =================
 
-##A gathering place for Atom editor users to request features and developers to report on implementations.
-
 Go straight to [the wiki](https://github.com/mark-hahn/atom-feature-wiki/wiki).
 ---
 
@@ -11,6 +9,8 @@ What is this?
 
 This repository exists to host a wiki for Atom editor users and developers.  The wiki follows ideas from their conception to realization.  Users can add ideas and developers can report on packages they are developing to implement those ideas.  The wiki is public so anyone can edit it.
 
+This wiki is **not** a place for users to find existing packages.  The Atom editor already provides the definitive list of packages.  This wiki should only be consulted when one is unable to find a feature they want.
+
 What is in it?
 ---
 
@@ -18,7 +18,7 @@ The home page is an index with one line for each proposed feature or feature set
 
 - Feature Summary: One paragraph only.
 - Details Of Features: Include links to related posts on Atom.io discussion boards.
-- Notes: E.g. any reason package should not be implemented, like conflict with core future plans.
+- Notes: Such as any reason feature should not be implemented, like conflict with core future plans, or links to related feature pages.
 - One section for each project targeted to this feature ...  
  - Link to github repo.
  - Details of implementation.
@@ -31,7 +31,7 @@ Why?
 ---
 - The discussion board has many posts of users requesting features.  These posts are often duplicated, disorganized, and forgotten.  
 
-- Arom editor developers interested in getting started often ask for ideas.
+- Atom editor developers interested in getting started often ask for ideas.
 
 - Developers will work on a package only to find out that a package with similar features is in progress or already available.
 
